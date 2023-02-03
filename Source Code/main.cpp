@@ -1,6 +1,6 @@
 /*Author: Binary Bills
-*Creation Date: 
-*Modification Date:
+*Creation Date: April 1, 2022
+*Modification Date: April 4, 2022
 *Purpose: This program performs +, -, *, / and $ on hexadecimal operands. 
 The maximum length of any operand or a solution is 40 digits.
 */
